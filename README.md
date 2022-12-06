@@ -1,5 +1,8 @@
 # Sandra's Static Site
 
+
+## NOTE - this has been converted to run with vite. The following set up instructions are no longer relevent. I may update them in the future.
+
 ## Setup
 
 1. Make a fork of this repo
